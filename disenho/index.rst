@@ -8,4 +8,4 @@
    entidades
    agregados
    repositorios
-   restApi
+   apiRest
