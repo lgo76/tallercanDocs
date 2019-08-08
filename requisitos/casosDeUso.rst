@@ -2,11 +2,13 @@
 Especificación de Casos de Uso del Sistema
 ===========================================
 
-.. todo: COMPLETAR
+.. toctree::
+
+  casosDeUso/registrarVehiculo.rst
 
 * Reparar vehiculo
 
-  - UC00. Recepcionar vehiculo
+  - `UC00. Recepcionar vehiculo <casosDeUso/registrarVehiculo.rst>`_
   - UC01. Registrar vehiculo
   - UC02. Elaborar presupuesto
   - UC03. Aceptar presupuesto
